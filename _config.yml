@@ -3,7 +3,8 @@ title: Video about
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   다양한 분야와 배경을 경험 했던 사람들이 호주 워킹홀리데이에 대한 생각을 말해주는 비디오 입니다.
-  (/div)
+baseurl: "" # the subpath of your site, e.g. /blog/
+description: > # this means to ignore newlines until "baseurl:"
   그들은 남녀구분 없이 20대 건장한 사람이라면 누구나 도전 할 수 있는 특권이라고 말합니다.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
