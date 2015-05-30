@@ -1,4 +1,4 @@
-#[문화]
+#♦문화
 ![aboriginal people](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSp5TEu8DcknpEwHGy7lJ-okSEuTkG5WzdaulV38N2pOZw-hr1T)
 ![aboriginal people2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHwoXo3OWLKZDxRM6YlzOa8yfE5DrfgSS9rFPe6GSnDPRGPgCp)
 ![aboriginal people3](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkWlSbafIzmghiN2V9Rp3TekJND1vWC3TTP_zBcsB-FDLGCESGzw)
@@ -32,12 +32,14 @@
 
 
 
-#[축제]
+#♦축제
 
 ![gay](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF3wbMFvbivk1aLuRmKdK8iLagSkzv8lrI_x2tun1DpR9Bwj-Nyw)
-![vivid](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpf6G8Brp1OafajOMHzyzuVsdHE7K3XKOz_1BqRGrtGy0qoYdV)https://enc![vivid2](rypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbBQDn1o6pZJ4YeOxuA1ufJBKJfESnSrU2_9QlROrtS0osoWhb)
+![vivid](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpf6G8Brp1OafajOMHzyzuVsdHE7K3XKOz_1BqRGrtGy0qoYdV)
+![vivid2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbBQDn1o6pZJ4YeOxuA1ufJBKJfESnSrU2_9QlROrtS0osoWhb)
 ![firework](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkLtDa5VzWfFQ5u-4bf-XLbbLtMl4uH4kto-p7r030PIp_TPe_)
 ![lights](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Wxt4quafIPRPdGZbghamYtgIiyQvjYxjk56p2VLFVsxV4N-xeQ)
+![newyear](http://i.huffpost.com/gen/2444018/thumbs/o-SYDNEY-FIREWORK-900.jpg?1)
 
 ## 게이&레즈비언들의 축제
   매년 2월 또는 3월에 시드니에서 열리는 행사로 에너지 넘치고 뜨거운 축제로 세계적으로 유명하다. 규모와 참석인원 등 모든 면에서 봤을 때 게이와 레즈비언 축제 중 세계 최대라고 할 수 있다. 이 축제는 게이와 레즈비언 문화의 자부심과 다양성을 다채롭고 다양한 방식으로 드러내는 축제라 할 수 있으며 새벽까지 진행된다. 굉장히 긴 행렬이 이어지는데 수만명의 사람들이 저마다 흥에 겨운 댄스 파티를 즐긴다. 
@@ -57,7 +59,7 @@
   매년 새해를 맞이하기 위해 모든 도시에서 불꽃놀이 축제가 진행된다. 빼놓을 수 없는 행사 중 하나다.
 
 
-[맛 집 및 음식]
+#♦맛 집 및 음식
 
 호주의 세 주요도시 시드니, 멜번, 브리즈번을 중심으로 맛 집 및 음식을 소개 하겠다.
 
