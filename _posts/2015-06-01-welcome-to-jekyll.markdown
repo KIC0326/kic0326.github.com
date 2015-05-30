@@ -3,7 +3,7 @@
 ![aboriginal people2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHwoXo3OWLKZDxRM6YlzOa8yfE5DrfgSS9rFPe6GSnDPRGPgCp)
 ![aboriginal people3](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkWlSbafIzmghiN2V9Rp3TekJND1vWC3TTP_zBcsB-FDLGCESGzw)
 
-## 호주의 전통 문화
+### 호주의 전통 문화
 
   호주의 원주민들을 **‘aboriginal people’**라고 부른다. 그들 대부분은 보통 호주의 인구 밀집도가 높은 외각 지역이 아닌 내부에서 무리를 지어 생활한다. 하지만, 간간히 관광장소에서 얼굴에 페인팅을 한 호주 원주민들이 길거리 공연을 하는 것을 볼 수 있다. 
   호주는 땅이 굉장히 크고 외국인들이 이민을 많이 오는 나라 중 하나다. 그렇기 때문에, 순수혈통인 호주인들은 현재 아마 반 이하도 되질 않을 것이다.
@@ -15,7 +15,7 @@
 ![fashion](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTU0QW_-Qd_ZOGPvZN6fqvWh7d8ZwjBpr-Y3U8-G9rmuI4Om1_x2A)
 ![fasion2](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRa3lQPxOx_jlaFQKORU8eGXwOzc-uiC4WqVcrWB4q0Co6b-Ng2)
 
-## 호주의 패션 문화
+### 호주의 패션 문화
 
   호주에는 뚜렷한 봄, 여름, 가을, 겨울이 없다. 굳이 나누자면 여름과 겨울이 있는 편인데, 여름에도 그렇게 덥진 않고 겨울에도 그렇게 춥진 않다. 호주에서 사는 사람들의 패션도 이와 비슷한데 패션을 통해 계절이 뚜렷이 들어나지 않는다. 그들은 입고 싶은 옷을 아무 때나 입는다. 굳이 여름이라 반팔을 입지 않는다. 그들은 겨울에 반팔도 입고 여름에도 긴팔을 입는다. 
   그렇지만, 한국과 비슷하게 White color worker의 경우 쫙 빠진 멋있는 정장을 입는 경우가 대부분이고 밤거리의 Cluber의 경우 눈이 호강하는 옷을 입는 경우가 대부분이다. 
@@ -24,7 +24,7 @@
 ![fish&chips](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6fia_cZklCvRLHhz0_ufCIWoXGHHxKI_wnEQk7i1knI2CZ08N)
 ![meat](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRzgfdsR6_7d27qpy4I1n5umci42bhjj1MW-XiDWDSC-n166YHVFg)
 
-## 호주의 음식 문화
+### 호주의 음식 문화
 
   호주의 뚜렷한 정통음식은 없다고 호주인들에게나 호주에서 오래 생활을 한 사람들에게 익히 들었지만, 영국의 문화를 받아서 인지 Fish & Chips가 호주의 전통음식이라고 우습게 얘기하는 분들도 있다. 그리고 그들 역시 파티를 즐기는데 호주에선 바비큐 파티가 가장 유명한 것 같다. 확실하지 않지만 호주는 호주인보다 외국인들의 비율이 많다. 그래서 여러 나라의 전통 음식을 맛보고 즐길 수 있다. 예를 들어, 그들도 김치를 좋아한다. 
   어이없던 이야기를 하자면, 호주에 처음 갔을 때 초밥집에서 김밥을 파는 것을 보았는데 그것들 역시 초밥의 종류중 하나로 일본 음식으로 취급받고 있었다. 더 슬픈 건, 호주에서 초밥집을 운영하는 80%이상의 사람이 한국인이라는 것이다.
@@ -35,27 +35,28 @@
 #♦축제
 
 ![gay](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF3wbMFvbivk1aLuRmKdK8iLagSkzv8lrI_x2tun1DpR9Bwj-Nyw)
+![gay2](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1N5eU3XxDNsk6je9FiM84E58EOLtxR_KNrLJTgAgVaKYcMA2NxQ)
 ![vivid](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpf6G8Brp1OafajOMHzyzuVsdHE7K3XKOz_1BqRGrtGy0qoYdV)
 ![vivid2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbBQDn1o6pZJ4YeOxuA1ufJBKJfESnSrU2_9QlROrtS0osoWhb)
 ![firework](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkLtDa5VzWfFQ5u-4bf-XLbbLtMl4uH4kto-p7r030PIp_TPe_)
 ![lights](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Wxt4quafIPRPdGZbghamYtgIiyQvjYxjk56p2VLFVsxV4N-xeQ)
 ![newyear](http://i.huffpost.com/gen/2444018/thumbs/o-SYDNEY-FIREWORK-900.jpg?1)
 
-## 게이&레즈비언들의 축제
+### 게이&레즈비언들의 축제
   매년 2월 또는 3월에 시드니에서 열리는 행사로 에너지 넘치고 뜨거운 축제로 세계적으로 유명하다. 규모와 참석인원 등 모든 면에서 봤을 때 게이와 레즈비언 축제 중 세계 최대라고 할 수 있다. 이 축제는 게이와 레즈비언 문화의 자부심과 다양성을 다채롭고 다양한 방식으로 드러내는 축제라 할 수 있으며 새벽까지 진행된다. 굉장히 긴 행렬이 이어지는데 수만명의 사람들이 저마다 흥에 겨운 댄스 파티를 즐긴다. 
 
-## Royal Easter Show
+### Royal Easter Show
   매년 3월 또는 4월에 시드니에서 열리는 호주 최대의 축제로 매년 90만 명 이상의 인파가 찾는다. 행사의 마지막 10분 동안 이어지는 불꽃놀이가 이 쇼의 묘미다. 가축들하며 음식, 다른 볼거리가 정말 가득하고 이벤트가 많지만, 입장비와 기념품들의 가격이 비싼 것을 알아 두어야 한다. 호주 최대의 축제라는 말에 인상 깊어 가봤지만 실망이 더하였다,     
 
-## Vivid Sydney
+### Vivid Sydney
   매년 5월 또는 6월에 시드니에서 열리는 축제로 가보길 적극추천 한다. 호주의 도심에서 20여 일간 열리는 행사로 장소에 따라 다른 조명이 설치되어, 낮과 밤을 아름답게 수 놓는다. 설명이 필요 없는 축제로 축제 기간 동안 시드니의 밤거리를 돌아다니면 모든 건물들이 도화지가 되고 아름다운 조명들이 그 위를 뛰어 노는 것을 볼 수 있을 것이다. 
   축제기간 중에 ferry를 타고 Luna Park 가는 것을 추천한다. Luna Park에선 이 기간 중 하버브릿지의 조명을 설정하기 위한 이벤트를 여는데 단순히 자기 차례만 기다리면 된다. ferry를 타고 바다 위에서 보는 아름다운 조명과 함께 있는 오페라 하우스는 정말 환상적이다. 
 
-## 크리스마스 조명 축제
+### 크리스마스 조명 축제
   매년 크리스마스 기간 동안 브리즈번 도심 밖에서 마을 단위로 열리는 축제로 저 마다의 집들을 작은 전구들을 사용하여 장식한다. 그리고 밤이 되면 전구를 키는데 정말 이보다 예쁠 수가 없다. 계속해서 확산되고 있다고 한다.
   여담으로 호주의 크리스마스는 12월 25일에 시작하지 않고 최소 1~2개월 전부터 시작한다. 모든 마트에 크리스마스 행사품과 기념품들이 몇 달 앞서 진열 된다. 그리고 호주 전기세는 싸기 때문에 위와 같은 축제가 가능하다고 한다.
 
-## 새해맞이 불꽃놀이
+### 새해맞이 불꽃놀이
   매년 새해를 맞이하기 위해 모든 도시에서 불꽃놀이 축제가 진행된다. 빼놓을 수 없는 행사 중 하나다.
 
 
