@@ -2,6 +2,8 @@
 title: Your awesome title
 email: your-email@domain.com
 
+paginate: 10
+
 menus:
     main:
     - Home: /
