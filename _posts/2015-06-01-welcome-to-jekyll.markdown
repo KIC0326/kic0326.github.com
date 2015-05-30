@@ -1,18 +1,14 @@
 #[문화]
 ![aboriginal people](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSp5TEu8DcknpEwHGy7lJ-okSEuTkG5WzdaulV38N2pOZw-hr1T)
 ![aboriginal people2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHwoXo3OWLKZDxRM6YlzOa8yfE5DrfgSS9rFPe6GSnDPRGPgCp)
-
-
-
-
-
+![aboriginal people3](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkWlSbafIzmghiN2V9Rp3TekJND1vWC3TTP_zBcsB-FDLGCESGzw)
 - 호주의 전통 문화
 
   호주의 원주민들을 **‘aboriginal people’**라고 부른다. 그들 대부분은 보통 호주의 인구 밀집도가 높은 외각 지역이 아닌 내부에서 무리를 지어 생활한다. 하지만, 간간히 관광장소에서 얼굴에 페인팅을 한 호주 원주민들이 길거리 공연을 하는 것을 볼 수 있다. 
   호주는 땅이 굉장히 크고 외국인들이 이민을 많이 오는 나라 중 하나다. 그렇기 때문에, 순수혈통인 호주인들은 현재 아마 반 이하도 되질 않을 것이다.
 
 호주 사람들은 친절하다? 호주 사람들은 적당히 친절하다.
-  한편의 경험 글을 써보자면, 버스에서 시드니 버스 노선 앱을 보면서 언제 내려야 할지를 몰라 창문과 휴대폰을 번갈아 보고 있던 중이었다. 한 분이 어디를 가냐고 내게 선뜻 물어보고 도착지에서 나에게 내리라고 알려주셨다. 하지만, 호주인 친구들에게 호주인들은 친절하다고 말했을 때 그들의 대답은 썩 긍정하는 편이 아니었으므로..
+  *한편의 경험 글을 써보자면, 버스에서 시드니 버스 노선 앱을 보면서 언제 내려야 할지를 몰라 창문과 휴대폰을 번갈아 보고 있던 중이었다. 한 분이 어디를 가냐고 내게 선뜻 물어보고 도착지에서 나에게 내리라고 알려주셨다. 하지만, 호주인 친구들에게 호주인들은 친절하다고 말했을 때 그들의 대답은 썩 긍정하는 편이 아니었으므로..*
 
 
 
