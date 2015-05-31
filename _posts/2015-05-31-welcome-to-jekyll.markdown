@@ -68,8 +68,10 @@ comments: True
 나의 경우, 가장 첫번째는 깨끗한 집이요 두번째는 책상이였다. 화장품도 두고 나름 공부도 할 예정이였기때문에,
 본인이 가장 우선적으로 생각하는 고려사항에 부합하는 집을 찾아야한다.
 
-##<호주 휴대폰개통하기>
-![휴대폰](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTjfyjKlNGVDEeLstSYwPb_J4ozMTuGCPN86yoCsF-9Hq8Sk-hy9g)
+##<호주 휴대폰개통하기>  
+
+![휴대폰](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTjfyjKlNGVDEeLstSYwPb_J4ozMTuGCPN86yoCsF-9Hq8Sk-hy9g)  
+
 1. **통신사 결정하기**
  - 우리나라에 SK, KT, LG가 있다면 호주에는 Telstra, Optus, Vodafone, Virgin mobile 등의 통신사가 있다. 텔스트라(telstra)는 호주 1위 통신사이지만 가격이 비싸고 보다폰 (Vodafone)은 멜번 지역에서 인기가 있으며,
 그 중에서 현재 브리즈번에서 한국인들은 Optus를 가장 많이 사용한다고한다.
