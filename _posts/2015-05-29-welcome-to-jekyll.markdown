@@ -163,7 +163,7 @@ layout: page
 - 비어와 스테이션
 선샤인 코스트 내에 있는 교외로 농장 일을 했던 지역이다. 그리고 아름다운 산들을 볼 수 있는 지역이다. 역 하나 차이로 glass house mountains역이라는 관광지가 있다. 
 
-![Australia zoo 사진](http://www.kathyloperevents.com/goldcoast/images/AustraliaZoo.jpg)
+![Australia zoo 사진](http://www.kathyloperevents.com/goldcoast/images/AustraliaZoo.jpg)  
 이 역에서 대중교통을 이용하여 호주 최대 크기를 가진 Australia zoo를 갈 수 있다. 호주 최대의 동물원이라 의미는 있지만 호주에 있는 여느 동물원과 비슷한 경향을 보인다. 입장료 또한 비싸고 뱀과 사진을 찍기 위해 입장료 가격만큼의 값을 지불해야 한다. 
 
 [물루라바 비치 사진]
