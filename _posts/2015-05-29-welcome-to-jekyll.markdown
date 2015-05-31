@@ -4,7 +4,7 @@ comments: True
 layout: page
 ---
 
-#####**♦문화**
+#####♦문화
 ![aboriginal people](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSp5TEu8DcknpEwHGy7lJ-okSEuTkG5WzdaulV38N2pOZw-hr1T)
 ![aboriginal people2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHwoXo3OWLKZDxRM6YlzOa8yfE5DrfgSS9rFPe6GSnDPRGPgCp)
 ![aboriginal people3](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkWlSbafIzmghiN2V9Rp3TekJND1vWC3TTP_zBcsB-FDLGCESGzw)
@@ -37,7 +37,7 @@ layout: page
 
 ---
 
-#####**♦축제**
+#####♦축제
 
 ![gay](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF3wbMFvbivk1aLuRmKdK8iLagSkzv8lrI_x2tun1DpR9Bwj-Nyw)
 ![gay2](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1N5eU3XxDNsk6je9FiM84E58EOLtxR_KNrLJTgAgVaKYcMA2NxQ)
@@ -66,7 +66,7 @@ layout: page
 
 ---
 
-#####**♦맛 집 및 음식**
+#####♦맛 집 및 음식
 
 **호주의 세 주요도시 시드니, 멜번, 브리즈번을 중심으로 맛 집 및 음식을 소개 하겠다.**
 
@@ -136,7 +136,7 @@ layout: page
 
 ---
 
-#####**♦여행**
+#####♦여행
 
 
 *맛집 기행과 마찬가지로 세 주요 도시 시드니, 멜번, 브리즈번의 관광명소를 소개하겠다.*
