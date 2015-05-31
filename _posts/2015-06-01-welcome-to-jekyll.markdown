@@ -9,8 +9,11 @@ layout: page
 #◆여권 준비   
 
 ### 여권을 발급하기 위한 준비물은 아래와 같다.  
-![준비물](http://i725.photobucket.com/albums/ww253/meyal/_zpso84ikcwx.jpg)    
-###이때 여권 사진은 반드시 귀가 보여야 한다.  
+
+![준비물](http://i725.photobucket.com/albums/ww253/meyal/_zpso84ikcwx.jpg)   
+
+###이때 여권 사진은 반드시 귀가 보여야 한다.
+
 ###위 준비물들을 갖고 시청을 찾아가면 된다.  
 
 
@@ -24,9 +27,13 @@ layout: page
    
   　
 #◆VISA 신청  
+
 ###아래의 내용은 호주 대사관의 내용을 옮겨놓은 것이다.  
+
 ---  
+
 ####*워킹홀리데이 비자로 무엇을 할 수 있을까?*
+
 본 비자를 발급 받는 경우 다음 사항들이 가능하다.
 
 - 발급 12개월내 호주 입국 가능
@@ -100,25 +107,35 @@ DIBP(호주 이민부) 웹사이트 상의 자세한 정보
  
  　
 #◆항공권   
+
 ####*※항공권은 다양한  항공사들을 이용하여 예매할 수 있다.*  
+
 #### *　본 블로그에서는 저가 항공사중 하나인 [Air Asia](http://www.airasia.com/kr/ko/home.page)를 예시로 들어보겠다.*  
 
 ###1. 홈페이지에 접속하여 출발지, 목적지, 출국, 귀국일 등을 설정하여 검색한다.
+
 ![홈피](http://i725.photobucket.com/albums/ww253/meyal/1_zpsp886oxzf.png)  
 *▼조회 완료시 아래와 같은 화면이 뜬다.*
 ![조회](http://i725.photobucket.com/albums/ww253/meyal/2_zpslbscp2jk.png)
+
 ###2. 원하는 날짜를 선택 후 다음 화면으로 넘어가 수화물, 기내식 등을 선택한다.
+
 ![수화물](http://i725.photobucket.com/albums/ww253/meyal/3_zpsykiuh7n9.jpg)
 ![기내식](http://i725.photobucket.com/albums/ww253/meyal/4_zpsejmpfweg.jpg)
 ![기내식2](http://i725.photobucket.com/albums/ww253/meyal/5_zpshdrkf4jo.jpg)
+
 ###3. 좌석을 선택한다.
+
 ![좌석](http://i725.photobucket.com/albums/ww253/meyal/6_zpsklh1p3h9.png)
+
 ###4. 요금 결제 후 출국일을 기다리자!
+
 ![결제1](http://i725.photobucket.com/albums/ww253/meyal/7_zpsknx0h3yc.png)
 ![결제2](http://i725.photobucket.com/albums/ww253/meyal/8_zpswn28swnv.jpg)
 　
 　　
 # ◆도시선택
+
 ![애들레이드](http://i725.photobucket.com/albums/ww253/meyal/1_zpsfzjo8flj.png)
 
 - 호주의 동서남북을 연결하는 관문 도시
@@ -152,18 +169,26 @@ DIBP(호주 이민부) 웹사이트 상의 자세한 정보
 ###  *자신의 목적, 영어 실력 등에 따라 목적지를 정하고 워홀을 떠나자!*
 　
 　
-#◆보험 가입
+　
+#◆보험 가입  
+  
   
 ####장기간 국외 체류하는 워홀러들의 특성상 보험 가입은 필수라 말할 수 있다.
+
 ####호주 워킹홀리데이를 떠나는 분들에게 가장 인기가 많은 어시스트 카드를 예시로 소개하겠다.
+
 ![어시](http://i725.photobucket.com/albums/ww253/meyal/1_zpslto6zhul.jpg)
 
 ####어시스트 카드의 가입은 아래와 같이 이루어진다.
+
 ---
+
 *전화로도 가입이 가능하지만 본 블로그에서는 온라인 가입에 대해 설명하겠다.*
 
 ---
+
 ####1.[어시스트 홈페이지](http://www.assistcard.co.kr/) 접속 후 상품 조회
+
 ![조회](http://i725.photobucket.com/albums/ww253/meyal/2_zpsocxlcwzc.jpg)  
 ![조회2](http://i725.photobucket.com/albums/ww253/meyal/4_zpsj5vlskbg.jpg)  
 - 나이/성별/목적(워킹홀리데이, 유학등)/기간에 따라 금액이 상이함. 조회 한뒤 조건에 맞춰 진행
@@ -173,7 +198,9 @@ DIBP(호주 이민부) 웹사이트 상의 자세한 정보
 - WH-1 or WH-2의 상품 중 원하는 것으로 선택가능 
 - 워킹홀리데이의 경우 휴대품 손해관련한 보상은 되지 않는다고 함
 
+
 ####2. 가입서 작성 및 동의
+
 *▼상품 선택*  
 ![가입서](http://i725.photobucket.com/albums/ww253/meyal/-4_zpssdb7n1eq.jpg)  
 *▼개인 정보 동의*    
