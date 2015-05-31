@@ -4,6 +4,10 @@ comments: True
 layout: page
 ---
 
+
+[![home](http://i725.photobucket.com/albums/ww253/meyal/home_zpsebcriy2u.jpg)](http://team0310.github.io/#portfolio)
+
+
 #◆여권 준비   
 
 ### 여권을 발급하기 위한 준비물은 아래와 같다.  
@@ -192,10 +196,5 @@ DIBP(호주 이민부) 웹사이트 상의 자세한 정보
 2. 이메일 수령할인 3,000원+설문조사2,000원 = 총 5,000원 할인 가능  
 
 
-
-
-
-　
-##이로써 출국 준비를 마쳤다. 다음 포스팅으로 넘어가도록 하자.
-
+[![home](http://i725.photobucket.com/albums/ww253/meyal/home_zpsebcriy2u.jpg)](http://team0310.github.io/#portfolio)
 
