@@ -4,7 +4,7 @@ comments: True
 layout: page
 ---
 
-#######**♦문화**
+#####**♦문화**
 ![aboriginal people](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSp5TEu8DcknpEwHGy7lJ-okSEuTkG5WzdaulV38N2pOZw-hr1T)
 ![aboriginal people2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHwoXo3OWLKZDxRM6YlzOa8yfE5DrfgSS9rFPe6GSnDPRGPgCp)
 ![aboriginal people3](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkWlSbafIzmghiN2V9Rp3TekJND1vWC3TTP_zBcsB-FDLGCESGzw)
@@ -37,7 +37,7 @@ layout: page
 
 ---
 
-#######**♦축제**
+#####**♦축제**
 
 ![gay](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF3wbMFvbivk1aLuRmKdK8iLagSkzv8lrI_x2tun1DpR9Bwj-Nyw)
 ![gay2](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1N5eU3XxDNsk6je9FiM84E58EOLtxR_KNrLJTgAgVaKYcMA2NxQ)
@@ -66,7 +66,7 @@ layout: page
 
 ---
 
-#######**♦맛 집 및 음식**
+#####**♦맛 집 및 음식**
 
 **호주의 세 주요도시 시드니, 멜번, 브리즈번을 중심으로 맛 집 및 음식을 소개 하겠다.**
 
@@ -136,7 +136,7 @@ layout: page
 
 ---
 
-#######**♦여행**
+#####**♦여행**
 
 
 *맛집 기행과 마찬가지로 세 주요 도시 시드니, 멜번, 브리즈번의 관광명소를 소개하겠다.*
@@ -191,9 +191,15 @@ layout: page
 
 #### 시드니
 
+![블루마운틴](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOkWNoFzG0WLIbH2B0mgWL0rlAzg877wxhxzK1xJjhixn_cAUz)
+
 - 블루마운틴 - 시드니 최고의 관광명소중 하나로 등산하고 경치를 느끼기 좋은 곳이다. 왜 블루마운틴인고 하니 멀리서 보았을 때 푸른색을 띠고 있기 때문이라고 한다. 에코 포인트 라는 지점이 있는데, 세자매 봉이라 불리는 특이한 바위산을 비롯해 탁 트인 절경을 감상할 수 있다.
 
+![모리셋 파크](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEpTXWUyr9ReSTIwNF2l2LKJ_To91Bv_mcbLOC-18KEKkynfK5YQ)
+
 - 모리셋 파크 - 야생 캥거루들의 천국, 가기 전에 캥거루 먹이는 꼭 챙겨야 한다. 그렇지 않으면 캥거루 만지기 힘들다. 캥거루 먹이로 식빵이 제격이라 하는데, 캥거루들에게는 독이라고 한다. 보안요원에게 들었는데 캥거루들의 시력을 떨어뜨린다고 한다. 하지만 캥거루들 식빵 진짜 정말 좋아한다. 여담으로 어미 캥거루 주머니에서 아기 캥거루가 고개를 쏙 드는 걸 보았을 때의 기분이란, 정말 아름답고 예쁘다.
+
+![키야마](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQbH5lxLql9Az4WrMOA0QR3UP-FtfDVVoFO03jB5iNZq6b33Z3zg)
 
 - 키야마 - 블루 홀이 있는 곳, 파도가 쳐서 홀 사이로 하얀 등대만큼의 높이로 물이 솟아오른다고 하는데, 그 정도의 파도가 치기엔 날씨가 너무 좋다. 
 
