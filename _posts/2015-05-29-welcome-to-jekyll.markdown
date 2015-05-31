@@ -144,8 +144,10 @@ layout: page
 #### 멜번 
 멜번은 가보진 실제로 가보진 않았지만 들은 바 호주에서 가장 세련된 도시라 한다. 따라서, 패션 피플들이 즐비한 곳. 그리고 카페가 굉장히 많은 것이 특징 중 하나다. 
 
-- [그레이트 오션 로드 사진]
-멜번의 그레이트 오션 로드 - 페이스북에서 죽기 전에 가봐야 할 곳 10곳에 선정된 곳 중 하나다.
+![그레이트 오션 로드 사진](http://hojudaytour.com/data/board/koreantour/file_in_body/1/12ec82aceb8f84.jpg)
+![그레이트 오션 로드 사진2](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_qev-gsDwSRe_zs6I-AIlR6ke-jLLkOJxx75fr7y3ouAwGBdbbg)
+
+- 멜번의 그레이트 오션 로드 - 페이스북에서 죽기 전에 가봐야 할 곳 10곳에 선정된 곳 중 하나다.
 
 - [Hoiser Lane 사진]
 멜번의 Hoiser Lane - 드라마 ‘미안하다, 사랑한다’의 촬영지로 유명한 곳
