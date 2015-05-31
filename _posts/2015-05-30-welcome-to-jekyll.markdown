@@ -4,23 +4,168 @@ layout: page
 comments : True
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+# 일자리 구하기
 
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+
+
+워킹홀리데이로 영어, 워킹, 여행을 하며
+다양한 경험을 할 수 있는 나라, 호주!
+현재 영어권 나라에서는 가장 높은 최저임금과 살기 좋은 환경으로
+많은 워홀러들이 호주로 워킹홀리데이 비자를 신청하고 있습니다.
+
+![main](http://postfiles5.naver.net/20150425_196/shareeng_1429957202219K8B6F_JPEG/_MG_7176.JPG?type=w2)
+취업 전 혹은 대학교 졸업 전, 스펙을 위해서 호주워킹홀리데이를 준비하고 계신데요~
+호주로 워킹홀리데이를 계획하신다면 가장 먼저 할 것이
+출국시기를 결정하는 것입니다. 본인의 목적과 상황에 맞게 말이죠.
+그런 후에 본인의 현재 영어 실력과 성향에 맞춰 워킹홀리데이를 계획하면 됩니다.
+
+
+
+![main1](http://postfiles7.naver.net/20150425_134/shareeng_1429957488239xGcqC_JPEG/2.jpg?type=w2)
+
+
+호주워킹홀리데이를 계획할 때 가장 걱정되는 부분이
+바로 호주 일자리일거예요~ 언어도 다르고, 문화도 다른 나라에서
+본인이 원하는 호주 일자리를 구한다는게 쉬운 것은 아니지요.
+호주워킹홀리데이 비자로 구할 수 있는 일자리 종류, 구하는 방법에 대해서 알아볼게요.
+
+
+
+
+호주워킹홀리데이 비자는 한 사업주 밑에서 최대 6개월까지만 일할 수 있습니다.
+그리고 호주에서 최대 1년 동안 체류할 수 있다보니, 전문직 보다는 많은 트레이닝이 필요하지 않은
+단기간 동안 일할 수 있는 일자리가 많은 편입니다. 서빙, 키친핸드, 바리스타, 청소, 물건 판매 등이지요.
+물론 영어실력, 운, 일자리를 구하는 방법에 따라 하게 되는 일자리는 달라집니다.
+
+
+
+
+
+한국이든 호주든 많이 해보시는 방법입니다.
+호주 일자리에는 오지잡(호주 사장님), 한인잡이 있는데요~
+기본적으로 한인잡에 대해서는 말씀드리지 않을게요. 한인잡을 할 바에는
+호주 워킹홀리데이를 하는 이유가 없기 때문이죠^^; 열악한 근무환경에 급여도 작구요~
+
+![main1](http://postfiles7.naver.net/20150425_134/shareeng_1429957488239xGcqC_JPEG/2.jpg?type=w2)
+
+한국과 다르게 호주 가게 문 앞에 구인광고가 없습니다.
+그래서 보통 일자리 구하는 방법을 모르시는 분들은 무작정
+호주 가게를 돌아다니며 이력서를 돌려야 된답니다.
+
+
+
+![main1](http://postfiles11.naver.net/20150425_10/shareeng_1429957645438y3UTk_JPEG/3.jpg?type=w2)
+100~200개를 돌렸을 때 1~2개 정도 연락이 오신다고 보시면 됩니다.
+연락이 오고서도 사업주와 영어 인터뷰를 봐야 하기에
+합격여부는 본인이 얼마나 많은 것을 갖추었느냐에 따라 달라집니다.
+(영어실력, 호주 문화에 대한 지식, 호주 비자 타입 등..)
+
+
+
+
+
+
+일자리 보장 프로그램은 발품을 팔아 구하는 것보다는
+에이전시의 도움을 받아 진행하는 것이기에 비용이 들기는 하지만
+일자리를 구하는 동안의 시간, 돈을 절약하고 원하는 일자리를 미리 정하고
+갈 수 있다는 장점이 있습니다.
+![main1](http://postfiles12.naver.net/20150425_299/shareeng_1429958015004EUnsU_JPEG/4.jpg?type=w2)
+호주 일자리 보장 프로그램에는 호텔인턴쉽, 호주 시티잡(서빙, 키친핸드 등)이
+있습니다. 한국에서 미리 보장 받는 것 or 호주 어학연수 후 보장 받는 것이 있습니다.
+이 부분은 전문가와 상담 후 본인에게 맞는 프로그램을 선택하면 됩니다.
+![main1](http://c2down.cyworld.co.kr/download?fid=642229009e953a64ec122900db862d8d&name=1.jpg)
+![main1](http://c2down.cyworld.co.kr/download?fid=642229009e953a64d3252900db86618d&name=2.jpg)
+
+
+
+보통 호주 일자리를 구할때는 세분류로 나뉘죠.
+
+첫번째. 직접 이력서를 돌리는 방법
+
+두번째. SEEK같은 사이트에서 이력서를 넣는 방법
+
+세번째. 지인을 통해 일자리를 구하는 방법
+
+그럼 각각 어떤 장단점이 있는지 알아볼까요??
+
+
+
+
+-1. 직접 이력서를 돌리는 방법
+
+
+
+
+호주워킹홀리데이 일자리를 구할때는 바로 이같은 방법을 쓰셔야 합니다. 
+
+왜냐하면 직접 이력서를 돌림으로써 주인과 매니져에게 본인이 어떤 사람인지 어필할 수 있고
+
+그만큼 본인이 일자리를 구하고 있다는 부분을 어필하는거죠. 
+
+호주워킹홀리데이를 가셔서 엔지니어, 간호가 같은 일자리를 생각하시는건아니실꺼예요.
+
+레스토랑이나 호텔에서 일자리를 구하려고 생각하실텐데요. 
+
+레스토랑이나 호텔 등등에서는 웹사이트에 일자리를 굳이 많이 내놓지 않습니다.
+
+호주인들도 이력서를 직접 넣고 다니니까요. 
+
+
+-2. SEEK과 같은 사이트에서 지원한다!
+
+
+
+
+거의 80%는 불가능한 일입니다. 
+
+물론 호주공장에서 삼성이라고 불리우는 잉햄공장은 SEEK에서 이력서를 넣고 
+
+전화인터뷰도 하고 메디컬테스트도하고 인덕션까지 한뒤에 고용이 되죠.
+
+물론 아무나 들어갈수 있느냐??
+
+아니죠~ 영어실력을 제일 우선으로 보고 인터뷰도 많이 보고있죠.
+
+그래서 잉햄이 들어가기 힘들다고 하는거예요.
+
+또한 잉햄은 다른 호주내공장들과는 다르게 잡에이젼시가 있는게 아니고
+
+잉햄에서 고용하고 계약하는거죠.
+
+잉햄이외에 seek에서 일자리 구하신 분들 댓글에 달아주세요!
+
+저도 어떤곳인지 한번 알고싶어요!!!
+
+-3. 지인을 통해 일자리를 구한다?
+
+
+
+
+본인이 호주워킹홀리데이 일자리를 구하는데 돈이 안들어가며 제일 손쉽게 일자리를 구하는 방법이죠.
+
+왜냐하면 학연, 지연이 제일 심한나라가 호주같아요.ㅎㅎ
+
+이력서에도 레퍼런스라는 보증인을 쓰는 칸도 있죠.
+
+레퍼런스를 쓰라는 말은 전직장에서 얼마나 일을 성실히 했나를 보려는거죠.
+
+물론 레퍼런스에게 직접 전화도 합니다.ㄷㄷㄷ
+
+내가 리조트나 식당에서 일하고 있는데 직원을 필요로한다??
+
+전 제 친구들을 첫번째로 추천하겠죠?
+
+그럼 다른 이력서를 보지도 않고 먼저 제 친구에게 인터뷰 기회를 줍니다.
+
+제가 호주에서 4년 넘게 생활하면서 매니져들이 100이면 100 다 같았어요.
+
+그럼 지인이 없는데 지인을 어떻게 찾냐구요???
+
+우린 호주에서 어학원을 다니자나요...
+
+그럼 그만큼 인맥이 넓어지겠죠??
+
+
+
+
