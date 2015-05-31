@@ -4,7 +4,7 @@ comments: True
 layout: page
 ---
 
-#*♦문화*
+#**♦문화**
 ![aboriginal people](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSp5TEu8DcknpEwHGy7lJ-okSEuTkG5WzdaulV38N2pOZw-hr1T)
 ![aboriginal people2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHwoXo3OWLKZDxRM6YlzOa8yfE5DrfgSS9rFPe6GSnDPRGPgCp)
 ![aboriginal people3](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkWlSbafIzmghiN2V9Rp3TekJND1vWC3TTP_zBcsB-FDLGCESGzw)
@@ -36,7 +36,7 @@ layout: page
   어이없던 이야기를 하자면, 호주에 처음 갔을 때 초밥집에서 김밥을 파는 것을 보았는데 그것들 역시 초밥의 종류중 하나로 일본 음식으로 취급받고 있었다. 더 슬픈 건, 호주에서 초밥집을 운영하는 80%이상의 사람이 한국인이라는 것이다.
 
 
-#*♦축제*
+#**♦축제**
 
 ![gay](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF3wbMFvbivk1aLuRmKdK8iLagSkzv8lrI_x2tun1DpR9Bwj-Nyw)
 ![gay2](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1N5eU3XxDNsk6je9FiM84E58EOLtxR_KNrLJTgAgVaKYcMA2NxQ)
@@ -64,50 +64,48 @@ layout: page
   매년 새해를 맞이하기 위해 모든 도시에서 불꽃놀이 축제가 진행된다. 빼놓을 수 없는 행사 중 하나다.
 
 
-#*♦맛 집 및 음식*
+#**♦맛 집 및 음식**
 
 **호주의 세 주요도시 시드니, 멜번, 브리즈번을 중심으로 맛 집 및 음식을 소개 하겠다.**
 
 ####시드니
 - 우선, 시드니의 팬 케익 전문점인 팬케틱 온더 록스를 소개하겠다. 이 곳은 점심시간 또는 저녁시간 제때 맞춰서 간다면 무조건 줄을 서서 기다려야 한다. 팬 케익 전문점 답게 각종 팬케익이 있으며 맛 또한 굉장히 맛있다. 그리고 팬케익 전문점이라 해서 팬케익들만 있는게 아니라 이상으로 맛있는 스테이크와 피자 또한 판매한다.
 
-http://www.pancakesontherocks.com.au/location/
 <http://www.pancakesontherocks.com.au/location/>
-사이트를 방문해 위치와 메뉴를 확인할 수 있다.
+사이트를 방문해 위치와 메뉴를 확인
 
 
 - 다음으로 소개할 시드니 맛 집은 마막이다. 마막은 말레이시아 음식을 파는 곳인데 가격도 저렴하게 먹을 수 있을 뿐만 아니라 한국인에게 딱 맞는 말레이시아 음식들을 먹을 수 있다. 이 곳 또한 제때 먹으러 가면 줄을 기다리는 것이 일이다.
 
-http://www.mamak.com.au/
 <http://www.mamak.com.au/>
-사이트를 방문해 위치와 메뉴를 확인할 수 있다.
+사이트를 방문해 위치와 메뉴를 확인
 
 - 세 번째로 소개할 맛 집은 한인식당인 단지다. 한국 음식에 대한 향수를 느끼거나 한국음식이 정말 먹고 싶다 할 때 가면 좋다. 가격이 꽤 비싸지만 갔던 한인식당 중 최고의 맛을 자랑한다. 점심특선으로는 도시락도 판다. 김치등갈비찜을 추천한다.
 
-[단지]:http://www.danjee.com.au/ 
-사이트를 방문해 위치와 메뉴를 확인할 수 있다.
+<http://www.danjee.com.au/> 
+사이트를 방문해 위치와 메뉴를 확인
 
 - 마지막으로 소개할 곳은 스크러피 머프즈다. 놀랍게도 이곳에서 8.95＄를 지불하면 맛있는 스테이크와 맥주를 한 번에 즐길 수 있다. 그리고 호주의 펍 분위기 또한 느낄 수 있는 일석이조의 식당이다.
 
-[스크러피머프즈]:http://www.scruffymurphys.com.au/menu/
-사이트를 방문해 위치와 메뉴를 확인할 수 있다.
+<http://www.scruffymurphys.com.au/menu/>
+사이트를 방문해 위치와 메뉴를 확인
 
 ####멜번
 *호주에서 가장 카페가 많고 세련된 도시로 유명한 멜번에선 몇몇의 디저트카페를 소개 하겠다.*
 
 - 첫 번째 디저트카페 
 
-[츄러스]:ttp://www.sanchurro.com/locations/ 
+<ttp://www.sanchurro.com/locations/>
 멜번에서 츄러스가 맛있기로 유명한 디저트 카페다.
 
 - 두 번째 디저트카페 
 
-[마카롱]:ttp://labellemiette.com.au/mac/ 
+<ttp://labellemiette.com.au/mac/>
 멜번에서 한 번도 가지 않은 사람은 있어도 한 번만 가본 사람은 없을 정도로 마카롱으로 유명한 디저트 카페다.  
 
 - 마지막 세 번째 디저트 카페 
 
-[커피]:ttps://www.dukescoffee.com.au/
+<ttps://www.dukescoffee.com.au/>
 이곳은 멜번에서 커피로 유명한 카페다.
 
 *멜번엔 카페가 많다고 익히 들었지만, 실제로 멜번은 카페가 굉장히 많다. 하지만, 말이 디저트지 거의 점심 저녁 음식값이라는 것이 함정이다.*
@@ -118,23 +116,23 @@ http://www.mamak.com.au/
 
 - 처음 소개할 맛 집은 그리스식 음식점이다. 식당의 크기는 작지만 인테리어가 굉장히 깔끔하고 깨끗하다. 그리고 시골 같은 동네 분위기를 느낄 수 있는데 식당의 분위기과와 어울린다. 샐러드 종류도 많고 음식도 굉장히 맛있지만, 아쉽게도 한국인들을 위한 쌀밥이 없다.   
 
-[맛집1]:http://www.littlegreektaverna.com.au/ 
+<http://www.littlegreektaverna.com.au/> 
 사이트를 방문해 위치와 메뉴를 확인할 수 있다.
 
 - 두 번째로 소개할 맛 집은 브리즈번 시티 중심에 위치한 이탈리안 음식점이다. 이곳은 결제방식이 특이한데, 입구에서 이 식당에서만 사용할 수 있는 간이 체크카드를 준다. 일단 카드로 지불을 한 후에 나중에 계산 할 때 정말로 돈을 내는 시스템이다. 그리고 음식을 주문하기 위해 웨이터를 기다리는 것이 아니라 직접 가서 주문을 하고 음식을 받아오는 시스템으로 학교 구내 학생식당과 비슷하다. 식당 내부 분위기가 굉장히 세련되고 음식이 정말 맛있지만, 비싸고 느끼하다는 것이 함정이다.
 
-[맛집2]:http://vapiano.com.au/ 
+<http://vapiano.com.au/> 
 사이트를 방문해 위치와 메뉴를 확인할 수 있다.
 
 - 마지막으로 소개할 맛 집은 벤즈다. 브리즈번에 거주하는 사람들한테 물어보면 셋 중 한명은 이곳이 맛 집이라는 것을 안다.
 이곳은 쌀국수로 유명하다. 이 가게의 대표 메뉴는 해산물 쌀국수다. 그리고 이 식당의 특이한 점은 금요일, 토요일 밤에는 카라오케가 있어 밤9부터 11시반 사이에 누구나 신청해서 노래를 부를 수 있다고 한다. 다만, 영어나 베트남어로 노래를 불러야 한다. 
-[맛집3]:http://www.bensrest.com.au/ 
+<http://www.bensrest.com.au/> 
 사이트를 방문해 위치와 메뉴를 확인할 수 있다.
 
 *호주에는 초밥집이 굉장히 많아 어디를 가도 눈에 보인다. 그리고 모두 한국인들 입맛에 맞을 것이다. 하지만 조금 더 저렴하게 먹고 싶다면, 한 접시 당 3＄ 또는 3.5＄에 판매하는 초밥집에 가면 저렴한 가격에 적당히 먹을 수 있다. 그리고 그 식당들 중 가끔 하루 동안만 더 싼 가격에 판매하는 이벤트도 있으니 눈 여겨 보면 좋다.*
 
 
-#♦여행
+#**♦여행**
 
 
 *맛집 기행과 마찬가지로 세 주요 도시 시드니, 멜번, 브리즈번의 관광명소를 소개하겠다.*
