@@ -166,11 +166,11 @@ layout: page
 ![Australia zoo 사진](http://www.kathyloperevents.com/goldcoast/images/AustraliaZoo.jpg)  
 이 역에서 대중교통을 이용하여 호주 최대 크기를 가진 Australia zoo를 갈 수 있다. 호주 최대의 동물원이라 의미는 있지만 호주에 있는 여느 동물원과 비슷한 경향을 보인다. 입장료 또한 비싸고 뱀과 사진을 찍기 위해 입장료 가격만큼의 값을 지불해야 한다. 
 
-[물루라바 비치 사진]
+![선샤인 코스트](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR65UQPlxX0bDkWeSblPaTy0TP45q4GuOE3Z-6y7kEbeVXtMqXg)
+
 - 물루라바 비치
 바람이 굉장히 강하게 부는 날이 있다. 물루라바 비치 주변에 중고책방이 있는데 <Life of Pi>구입한 기억만 있다. 
 
-[누사 비치 사진]
 - 누사 비치
 누사 비치 역시 아름다운 비치다. 누사비치에 도착한 후 오른쪽 길을 따라 20~30분 걷다 보면 네셔널 파크가 나오는데 구경할 만 한 곳이다.
 
