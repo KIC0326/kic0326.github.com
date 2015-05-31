@@ -1,5 +1,5 @@
 ---
-title: Culture
+title: 호주즐기기
 comments: True
 layout: page
 ---
