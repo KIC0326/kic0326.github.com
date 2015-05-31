@@ -145,12 +145,12 @@ layout: page
 멜번은 가보진 실제로 가보진 않았지만 들은 바 호주에서 가장 세련된 도시라 한다. 따라서, 패션 피플들이 즐비한 곳. 그리고 카페가 굉장히 많은 것이 특징 중 하나다. 
 
 ![그레이트 오션 로드 사진](http://hojudaytour.com/data/board/koreantour/file_in_body/1/12ec82aceb8f84.jpg)
-![그레이트 오션 로드 사진2](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_qev-gsDwSRe_zs6I-AIlR6ke-jLLkOJxx75fr7y3ouAwGBdbbg)
 
 - 멜번의 그레이트 오션 로드 - 페이스북에서 죽기 전에 가봐야 할 곳 10곳에 선정된 곳 중 하나다.
 
-- [Hoiser Lane 사진]
-멜번의 Hoiser Lane - 드라마 ‘미안하다, 사랑한다’의 촬영지로 유명한 곳
+![Hoiser Lane 사진](http://photographyhotspots.com.au/wp-content/uploads/2013/10/1382410263_Hosier3.jpg)
+
+- 멜번의 Hoiser Lane - 드라마 ‘미안하다, 사랑한다’의 촬영지로 유명한 곳
 
 #### 브리즈번
 브리즈번 도시는 시드니나 멜번에 비해 굉장히 조그마한 도시다. 따라서 볼게 없다. 있다 해도 어디서나 볼 수 있는 것들이므로 도심 밖 여행지, 그중 관광지로 유명한 선샤인 코스트와 골드코스트를 소개하겠다.
@@ -158,12 +158,13 @@ layout: page
 선샤인 코스트
 호주 동부 해안 지역에 있는 휴양지
 
-- [Beerwah 사진]
+
+![glass house mountains 사진](https://jannersdownunder.files.wordpress.com/2009/08/glass-house-mountains-1.jpg)
 - 비어와 스테이션
 선샤인 코스트 내에 있는 교외로 농장 일을 했던 지역이다. 그리고 아름다운 산들을 볼 수 있는 지역이다. 역 하나 차이로 glass house mountains역이라는 관광지가 있다. 
-[glass house mountains 사진]
-[Australia zoo 사진]
+
 이 역에서 대중교통을 이용하여 호주 최대 크기를 가진 Australia zoo를 갈 수 있다. 호주 최대의 동물원이라 의미는 있지만 호주에 있는 여느 동물원과 비슷한 경향을 보인다. 입장료 또한 비싸고 뱀과 사진을 찍기 위해 입장료 가격만큼의 값을 지불해야 한다. 
+![Australia zoo 사진](http://www.kathyloperevents.com/goldcoast/images/AustraliaZoo.jpg)
 
 [물루라바 비치 사진]
 - 물루라바 비치
