@@ -1,5 +1,5 @@
 ---
-title: 호주즐기기
+title: 호주 즐기기
 comments: True
 layout: page
 ---
