@@ -9,7 +9,9 @@ layout: page
 ###여권을 발급하기 위한 준비물은 아래와 같다.  
 ![준비물](http://i725.photobucket.com/albums/ww253/meyal/_zpso84ikcwx.jpg)    
 ### 이때 여권 사진은 반드시 귀가 보여야 한다.  
-위 준비물들을 갖고 시청을 찾아가면 된다.  
+### 위 준비물들을 갖고 시청을 찾아가면 된다.  
+
+
 *▼ 시청에 가면 아래와 같이 창구가 마련되어 있다.*
 ![창구](http://i725.photobucket.com/albums/ww253/meyal/_zpsvvpsem8p.jpg)
 
@@ -79,6 +81,8 @@ layout: page
 
  
 더욱 자세한 문의를 위하여 이민성에 연락하시기 전에, 다음을 확인하십시오.  
+  
+  
 *자주 묻는 질문에 대한 답변*  
 - 참조: [자주하는 질문 (Frequently Asked Questions) ](http://southkorea.embassy.gov.au/seolkorean/wh_faq_kr.html)  
 DIBP(호주 이민부) 웹사이트 상의 자세한 정보  
@@ -107,7 +111,7 @@ DIBP(호주 이민부) 웹사이트 상의 자세한 정보
 ![기내식2](http://i725.photobucket.com/albums/ww253/meyal/5_zpshdrkf4jo.jpg)
 ###3. 좌석을 선택한다.
 ![좌석](http://i725.photobucket.com/albums/ww253/meyal/6_zpsklh1p3h9.png)
-###4. 요금을 결제 후 출국일을 기다리자!
+###4. 요금 결제 후 출국일을 기다리자!
 ![결제1](http://i725.photobucket.com/albums/ww253/meyal/7_zpsknx0h3yc.png)
 ![결제2](http://i725.photobucket.com/albums/ww253/meyal/8_zpswn28swnv.jpg)
 　
@@ -161,7 +165,8 @@ DIBP(호주 이민부) 웹사이트 상의 자세한 정보
 ![조회](http://i725.photobucket.com/albums/ww253/meyal/2_zpsocxlcwzc.jpg)  
 ![조회2](http://i725.photobucket.com/albums/ww253/meyal/4_zpsj5vlskbg.jpg)  
 - 나이/성별/목적(워킹홀리데이, 유학등)/기간에 따라 금액이 상이함. 조회 한뒤 조건에 맞춰 진행
-- 만약 워킹기간이 정해지지 않았다면 최고인 365일로 가입하는 것이 좋다. 다시 가입을 할 경우 더 많은 보험료가 들수 있다.
+- 만약 워킹기간이 정해지지 않았다면 최고인 365일로 가입하는 것이 좋다. 
+　다시 가입을 할 경우 더 많은 보험료가 들수 있다.
 - 만약 보험가입기간보다 빨리 한국에 돌아왔다면 기간에 맞춰 일부 금액을 돌려받을 수 있다
 - WH-1 or WH-2의 상품 중 원하는 것으로 선택가능 
 - 워킹홀리데이의 경우 휴대품 손해관련한 보상은 되지 않는다고 함
