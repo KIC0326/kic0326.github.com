@@ -4,7 +4,7 @@ comments: True
 layout: page
 ---
 
-##### 문화
+# 문화
 ![aboriginal people](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSp5TEu8DcknpEwHGy7lJ-okSEuTkG5WzdaulV38N2pOZw-hr1T)
 ![aboriginal people2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHwoXo3OWLKZDxRM6YlzOa8yfE5DrfgSS9rFPe6GSnDPRGPgCp)
 ![aboriginal people3](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkWlSbafIzmghiN2V9Rp3TekJND1vWC3TTP_zBcsB-FDLGCESGzw)
@@ -37,7 +37,7 @@ layout: page
 
 ---
 
-##### 축제
+# 축제
 
 ![gay](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF3wbMFvbivk1aLuRmKdK8iLagSkzv8lrI_x2tun1DpR9Bwj-Nyw)
 ![gay2](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1N5eU3XxDNsk6je9FiM84E58EOLtxR_KNrLJTgAgVaKYcMA2NxQ)
