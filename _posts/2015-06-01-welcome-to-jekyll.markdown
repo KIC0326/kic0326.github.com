@@ -5,8 +5,6 @@ layout: page
 ---
 
 
-[![home](http://i725.photobucket.com/albums/ww253/meyal/home_zpsebcriy2u.jpg)](http://team0310.github.io/#portfolio)
-
 
 #◆여권 준비   
 
