@@ -4,11 +4,12 @@ comments: True
 layout: page
 ---
 
-# ◆여권 준비 *
-  
+# ◆여권 준비   
+
 ###여권을 발급하기 위한 준비물은 아래와 같다.  
 ![준비물](http://i725.photobucket.com/albums/ww253/meyal/_zpso84ikcwx.jpg)    
-### 이때 여권 사진은 반드시 귀가 보여야 한다. 위 준비물들을 갖고 시청을 찾아가면 된다.  
+### 이때 여권 사진은 반드시 귀가 보여야 한다.  
+위 준비물들을 갖고 시청을 찾아가면 된다.  
 *▼ 시청에 가면 아래와 같이 창구가 마련되어 있다.*
 ![창구](http://i725.photobucket.com/albums/ww253/meyal/_zpsvvpsem8p.jpg)
 
@@ -18,7 +19,7 @@ layout: page
   
    
   　
-# ◆VISA 신청 *
+# ◆VISA 신청   
 ###아래의 내용은 호주 대사관의 내용을 옮겨놓은 것이다. 
 ---
 #### *워킹홀리데이 비자로 무엇을 할 수 있을까?*
@@ -78,7 +79,7 @@ layout: page
 
  
 더욱 자세한 문의를 위하여 이민성에 연락하시기 전에, 다음을 확인하십시오.  
-*자주 묻는 질문에 대한 답변  *  
+*자주 묻는 질문에 대한 답변*  
 - 참조: [자주하는 질문 (Frequently Asked Questions) ](http://southkorea.embassy.gov.au/seolkorean/wh_faq_kr.html)  
 DIBP(호주 이민부) 웹사이트 상의 자세한 정보  
 - 참조: [Working Holiday Visa (Subclass 417)](http://www.immi.gov.au/visitors/working-holiday/417/index.htm)
@@ -175,15 +176,15 @@ DIBP(호주 이민부) 웹사이트 상의 자세한 정보
 ![신청서2](http://i725.photobucket.com/albums/ww253/meyal/-8_zpsisyv6wqz.jpg)
 
 ####3. 결제 및 확인
-*▼결제 서류작성 *   
+*▼결제 서류작성*     
 ![결제](http://i725.photobucket.com/albums/ww253/meyal/-9_zpsd1fndlju.jpg)  
 *▼결제 완료 확인 창*   
 ![확인](http://i725.photobucket.com/albums/ww253/meyal/-10_zpsyywozya7.jpg)
 
 
-**※어시스트카드 할인 가능 요건**
-1. 국제학생증할인! 결제금액의 5%할인! = 사진과 같은 금액일 경우 대략 9,120원할인 가능
-2. 이메일 수령할인 3,000원+설문조사2,000원 = 총 5,000원 할인 가능
+**※어시스트카드 할인 가능 요건**  
+1. 국제학생증할인! 결제금액의 5%할인! = 사진과 같은 금액일 경우 대략 9,120원할인 가능  
+2. 이메일 수령할인 3,000원+설문조사2,000원 = 총 5,000원 할인 가능  
 
 
 
