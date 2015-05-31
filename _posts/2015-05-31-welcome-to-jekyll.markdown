@@ -153,4 +153,6 @@ comments: True
 어쨌든 개인적으로는 버스는 추천드릴수 있을듯 한데. 가격도 싸고 무엇보다 정말 내가 여행을 하고있다는 기분을 느낄수있게 해준답니다. 버스를 타지 않았다면 가지않았던 길들과 갈수없었던 장소를 볼수가있답니다
 
 
+[![home](http://i725.photobucket.com/albums/ww253/meyal/home_zpsebcriy2u.jpg)](http://team0310.github.io/#portfolio)
+
 
