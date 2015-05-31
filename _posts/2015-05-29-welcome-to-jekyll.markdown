@@ -4,7 +4,7 @@ comments: True
 layout: page
 ---
 
-#♦문화
+#*♦문화*
 ![aboriginal people](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSp5TEu8DcknpEwHGy7lJ-okSEuTkG5WzdaulV38N2pOZw-hr1T)
 ![aboriginal people2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHwoXo3OWLKZDxRM6YlzOa8yfE5DrfgSS9rFPe6GSnDPRGPgCp)
 ![aboriginal people3](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkWlSbafIzmghiN2V9Rp3TekJND1vWC3TTP_zBcsB-FDLGCESGzw)
@@ -36,7 +36,7 @@ layout: page
   어이없던 이야기를 하자면, 호주에 처음 갔을 때 초밥집에서 김밥을 파는 것을 보았는데 그것들 역시 초밥의 종류중 하나로 일본 음식으로 취급받고 있었다. 더 슬픈 건, 호주에서 초밥집을 운영하는 80%이상의 사람이 한국인이라는 것이다.
 
 
-#♦축제
+#*♦축제*
 
 ![gay](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF3wbMFvbivk1aLuRmKdK8iLagSkzv8lrI_x2tun1DpR9Bwj-Nyw)
 ![gay2](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1N5eU3XxDNsk6je9FiM84E58EOLtxR_KNrLJTgAgVaKYcMA2NxQ)
@@ -64,14 +64,14 @@ layout: page
   매년 새해를 맞이하기 위해 모든 도시에서 불꽃놀이 축제가 진행된다. 빼놓을 수 없는 행사 중 하나다.
 
 
-#♦맛 집 및 음식
+#*♦맛 집 및 음식*
 
 **호주의 세 주요도시 시드니, 멜번, 브리즈번을 중심으로 맛 집 및 음식을 소개 하겠다.**
 
 ####시드니
 - 우선, 시드니의 팬 케익 전문점인 팬케틱 온더 록스를 소개하겠다. 이 곳은 점심시간 또는 저녁시간 제때 맞춰서 간다면 무조건 줄을 서서 기다려야 한다. 팬 케익 전문점 답게 각종 팬케익이 있으며 맛 또한 굉장히 맛있다. 그리고 팬케익 전문점이라 해서 팬케익들만 있는게 아니라 이상으로 맛있는 스테이크와 피자 또한 판매한다.
 
-[록스]:http://www.pancakesontherocks.com.au/location/ 
+<http://www.pancakesontherocks.com.au/location/>
 사이트를 방문해 위치와 메뉴를 확인할 수 있다.
 
 
